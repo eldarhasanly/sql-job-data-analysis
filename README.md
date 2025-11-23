@@ -2,7 +2,7 @@
 📊 Step into the world of data careers! Centered on data analyst positions, this project highlights 💰 the highest-paying opportunities, 🔥 the most sought-after skills, and 📈 the sweet spot where strong demand aligns with strong compensation in data analytics.
 
 # Background
-Motivated by the need to better understand the data analyst job landscape, this project was created to identify the best-paying roles and the skills employers value most—making it easier for others to find the right opportunities.
+Motivated by the need to better understand the data analyst job landscape, this project was created to identify the best-paying roles and the skills employers value most-making it easier for others to find the right opportunities.
 
 The dataset comes from Luke Barousse's SQL for Data Analytics course, offering a rich collection of information on job titles, salaries, locations, and key skills.
 
@@ -19,7 +19,7 @@ For this in-depth exploration of the data analyst job market, I relied on severa
 
 - **SQL:** The core of my analysis, enabling me to query the data and extract meaningful insights.
 - **PostgreSQL:** The database system of choice, well-suited for managing and processing the job posting dataset.
-- **Visual Studio Code:** MMy primary workspace for organizing the database and running SQL queries.
+- **Visual Studio Code:** My primary workspace for organizing the database and running SQL queries.
 - **Git & GitHub:** Crucial for version control and sharing my SQL work, supporting collaboration and transparent project development.
 
 # The Analysis
